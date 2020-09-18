@@ -2,7 +2,7 @@
 
 <p align="center"> 
   <h1> Snapshot of the app </h1>
-    <img src="ToDo.png" align="center" height="150"></img>
+    <img src="ToDo.png" align="center"></img>
 </p>
 =======
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
